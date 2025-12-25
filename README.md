@@ -1,16 +1,27 @@
-# neomorphic_design
+# Neomorphic Design (Flutter)
 
-A new Flutter project.
+A clean and modern **Neumorphic UI music player** built using Flutter.
 
-## Getting Started
+## ✨ Features
+- Neumorphic design using custom containers
+- Music player UI
+- Progress indicator
+- Responsive layout
 
-This project is a starting point for a Flutter application.
+## 📱 Screens
+- Playlist header
+- Album art section
+- Song details
+- Play / Pause / Next / Previous controls
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter SDK
+- Android Studio / VS Code
+- Emulator or real device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run the project
+```bash
+flutter pub get
+flutter run
